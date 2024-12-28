@@ -1,4 +1,4 @@
-# express-tests
+# express-cors-explained
 
 A basic tutorial to explain CORS.
 
