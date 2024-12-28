@@ -1,3 +1,5 @@
 # express-tests
 
-Tests with CORS, auth and other shenanigans in Express
+A basic tutorial to explain CORS.
+
+[tutorial to follow]
