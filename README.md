@@ -8,4 +8,4 @@ Launch the servers with:
 `npm run streaming`
 `npm run broker`
 
-Follow along with the [[Medium Article]](https://medium.com/@gabrieldrouin/not-just-a-skill-issue-what-is-cors-and-why-its-blocking-you-b59aa8272d81).
+Follow along with the [Medium Article](https://medium.com/@gabrieldrouin/not-just-a-skill-issue-what-is-cors-and-why-its-blocking-you-b59aa8272d81).
